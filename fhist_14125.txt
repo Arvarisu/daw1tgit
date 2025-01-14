@@ -1,0 +1,4 @@
+    1  history
+    2  cd /c/Users/alvar/OneDrive/Desktop/FP/Entorno/GIT/daw1tgit2
+    3  history
+    4  history > fhist_14125.txt
